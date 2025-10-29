@@ -9,12 +9,12 @@
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pintu-sharma-386827193/)
 - 🧑‍💻 [GitHub](https://github.com/PintuS04)
-- 📫 Email: your.email@example.com
+- 📫 Email: pintusharma0946@gmail.com
 
 ---
 
 ### 🧰 Tech Stack
-💡 **Cloud:** AWS | GCP | Azure  
+💡 **Cloud:** AWS | GCP | Azure | Schalway
 🐳 **DevOps Tools:** Docker | Kubernetes | Jenkins | GitLab CI/CD  
 🧠 **Programming:** Python | Java | Node.js  
 🗄️ **Database:** PostgreSQL | MongoDB | MySQL  
