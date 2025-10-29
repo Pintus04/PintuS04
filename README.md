@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Pintu Sharma
 
-<!--
-**Pintus04/PintuS04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps | Cloud | Database Engineer  
+💻 Passionate about Docker, AWS, GCP, and CI/CD automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with Me
+- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)
+- 🧑‍💻 [GitHub](https://github.com/PintuS04)
+- 📫 Email: your.email@example.com
+
+---
+
+### 🧰 Tech Stack
+💡 **Cloud:** AWS | GCP | Azure  
+🐳 **DevOps Tools:** Docker | Kubernetes | Jenkins | GitLab CI/CD  
+🧠 **Programming:** Python | Java | Node.js  
+🗄️ **Database:** PostgreSQL | MongoDB | MySQL  
+
+---
+
+### 📊 GitHub Stats
+![Pintu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PintuS04&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PintuS04&layout=compact&theme=tokyonight)
+
+---
+
+✨ _“Building scalable, reliable, and automated systems for modern cloud infrastructure.”_
