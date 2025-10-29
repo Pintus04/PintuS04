@@ -9,6 +9,7 @@
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pintu-sharma-386827193/)
 - 🧑‍💻 [GitHub](https://github.com/PintuS04)
+- 📱 Phone : +91 6207128169
 - 📫 Email: pintusharma0946@gmail.com
 
 ---
