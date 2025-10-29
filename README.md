@@ -7,7 +7,7 @@
 
 ### 🔗 Connect with Me
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pintu-sharma-386827193/)
 - 🧑‍💻 [GitHub](https://github.com/PintuS04)
 - 📫 Email: your.email@example.com
 
