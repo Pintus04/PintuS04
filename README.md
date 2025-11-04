@@ -17,7 +17,7 @@
 
 ## 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-blue?style=for-the-badge&logo=google-chrome)](https://main.d3g6w1j5z1bud4.amplifyapp.com/#)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-blue?style=for-the-badge&logo=google-chrome)](https://pintucicd-latest-code.d3g6w1j5z1bud4.amplifyapp.com/#)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pintu-sharma-386827193/)
 [![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/PintuS04)
 [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:pintusharma0946@gmail.com)
